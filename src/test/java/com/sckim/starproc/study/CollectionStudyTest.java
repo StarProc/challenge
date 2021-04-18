@@ -9,13 +9,13 @@ import org.junit.jupiter.api.Test;
  * 스택, 큐, 연결리스트, 트리
  * list, map, array, collection
  *
- * 1. 리스트, 맵, 셋 - 생성, 삽입, 삭제, 복사
+ * 1. List, Map, Set - 생성, 삽입, 삭제, 복사
  *
  * 2. 컬렉션 to 배열
  *
  * 3. thread safe 컬렉션
  *
- * 4. 큐
+ * 4. 큐 사용
  *
  * 5. 불변 객체
  */
