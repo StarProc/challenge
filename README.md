@@ -1,3 +1,8 @@
+# 작업 진행 방법
+- 작업 진행은 노션으로 관리 : https://www.notion.so/980f0a1acb7a434191425c7dd5af1c51?v=aa2c420528d74bc2b84f5bbef47514cf
+- 작업 결과물은 모두 깃헙에 푸시 후 리뷰 신청
+- 논의가 필요한 사항은 깃헙의 이슈 게시글로 남김
+
 # 개발툴, 라이브러리, 프레임워크
 spring boot
 intellij
